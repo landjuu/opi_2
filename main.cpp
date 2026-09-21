@@ -2,7 +2,7 @@
 
 
 void zazazFunction() {
-    std::cout << "Hello from zazaz!" << std::endl;
+    std::cout << "блабла" << std::endl;
 }
 
 int main() {
