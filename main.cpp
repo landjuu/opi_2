@@ -1,3 +1,3 @@
-void funcKrylov () {
-    std::cout << "устал" << std::endl;
+void FuncKrylov() {
+    std::cout << "USTAL" << std::endl;
 }
